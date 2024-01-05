@@ -23,7 +23,7 @@
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/tyler-thompson-52056623b)
+- [LinkedIn](https://www.linkedin.com/in/tyler-thompson-52056623b/)
 - Email: tylert123@yahoo.com
 
 ## 🌱 Looking for Opportunities
