@@ -18,7 +18,7 @@
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Languages: Main languages include Java and Python. Has worked with C++, C#, PHP, SQL, HTML, CSS and Kotlin.
+- **Programming Languages:** Languages: Main languages include Python, C++, C# and C. Has worked with Java, PHP, SQL, HTML, CSS and Kotlin.
 - **Technologies and Tools:** Git, Docker, database development, Arduino software, Microsoft Office applications, Unity, Jupyter Notebooks, AI related services (Anaconda), Blender, Unity, MATLAB, Microsoft Azure and Python libraries ranging from Django to OpenCV.
 
 ## 🌐 Connect with Me
