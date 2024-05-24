@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently studying at Penn State Abington with a major in computer science.
+- 🔭 I'm a Penn State Computer Science graduate. 
 - 🌱 I'm constantly learning and exploring new technologies, especially related to AI.
 - 👯 I'm open to collaboration and always excited to connect with fellow professionals. My degree heavily empahsizes teamwork.
 - 📫 You can reach me at tsquaredtech0630@gmail.com or [LinkedIn Profile](https://www.linkedin.com/in/tyler-thompson-52056623b/).
