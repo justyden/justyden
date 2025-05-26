@@ -11,9 +11,10 @@
 
 ## 💼 Experience
 
+### 
 ### Internship
 - **Position:** Robotics Software Assistant
-- **Duration:** May 2023 - Ongoing
+- **Duration:** May 2023 - September 2023
 - **Responsibilities:** Employed at Penn State to help carry out research and create applications in a plethora of topics. The main project includes working with a BlueROV2 robot to create a deep learning network that utilizes side scan sonar for underwater object detection. Side projects within the internship include working and interfacing with Nvidia Jetbots to create various programs such as tracking and moving towards an object.
 
 ## 🛠️ Skills
