@@ -7,7 +7,7 @@
 - 🔭 I'm a Penn State Computer Science graduate. 
 - 🌱 I'm constantly learning and exploring new technologies, especially related to AI, embedded systems, and software-as-as-service.
 - 👯 I'm open to collaboration and always excited to connect with fellow professionals. My degree heavily empahsizes teamwork.
-- 🛒 An intersting note me is as a side hustle, I enjoy selling and collecting Pokemon cards.
+- 🛒 An intersting note about me is as a side hustle, I enjoy selling and collecting Pokemon cards.
 - 📫 You can reach me at tsquaredtech0630@gmail.com or [LinkedIn Profile](https://www.linkedin.com/in/tyler-thompson-52056623b/).
 
 ## 💼 Experience
